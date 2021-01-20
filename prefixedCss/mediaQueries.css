@@ -1,0 +1,315 @@
+@media (min-width: 3840px) {
+h1{font-size:120px}
+h2{font-size:80px}
+h3{font-size:70px}
+h4{font-size:60px}
+h5{font-size:50px}
+p{font-size:37px}
+span{font-size:35px}
+a{font-size:35px}
+.buttonG{padding:40px}
+.testimonialsTextWrapper{max-width:2000px}
+.testimonialsPhotoWrapper amp-img{max-width:250px;-ms-flex-item-align:center;-ms-grid-row-align:center;align-self:center}
+.textoSobreHeader{font-size:50px}
+.dinamitaListItem svg{margin-right:8px;fill:var(--f1);opacity:.6;width:60px;min-width:60px}
+.dinamicaWrapper h3{font-size:50px}
+.premiadosImgWrapper h4{font-size:40px}
+.dataHeaderUnit h3{font-size:30px}
+.dataHeaderUnit h4{font-size:20px}
+amp-selector[role=tablist].tabs-with-flex{max-width:1600px}
+.faq1Accordion section h3{font-size:40px}
+.faq1Accordion{max-width:1500px}
+}
+@media (min-width: 2560px) and (max-width: 3839px) {
+h1{font-size:90px}
+h2{font-size:60px}
+h3{font-size:50px}
+h4{font-size:16px}
+h5{font-size:35px}
+p{font-size:30px}
+span{font-size:25px}
+a{font-size:28px}
+.testimonialsTextWrapper{max-width:1000px}
+.testimonialsPhotoWrapper amp-img{max-width:250px;-ms-flex-item-align:center;-ms-grid-row-align:center;align-self:center}
+.textoSobreHeader{font-size:30px}
+.dinamitaListItem svg{margin-right:8px;fill:var(--f1);opacity:.6;width:40px;min-width:40px}
+.dinamicaWrapper h3{font-size:30px}
+.premiadosImgWrapper h4{font-size:25px}
+.dataHeaderUnit h3{font-size:30px}
+.dataHeaderUnit h4{font-size:20px}
+amp-selector[role=tablist].tabs-with-flex{max-width:1600px}
+.faq1Accordion section h3{font-size:30px}
+.faq1Accordion{max-width:1500px}
+}
+@media (min-width: 1200px) and (max-width: 1800px) {
+h2{font-size:22px}
+h3{font-size:20px}
+h4{font-size:16px}
+h5{font-size:16px}
+p{font-size:16px}
+span{font-size:14px}
+a{font-size:14px}
+.heroSection2{-ms-grid-columns:1.6fr 1fr;grid-template-columns:1.6fr 1fr;padding:10vw 40px 90px}
+.countdown{padding:20px 10vw 0}
+.countdownWrapper{max-width:600px}
+.countdownUnit{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+.countdownArea{padding:20px}
+.countdownArea:first-child{border:3px solid var(--f1)}
+.countdownArea span{font-size:20px;line-height:1}
+.countdownArea h2{font-size:40px;line-height:1}
+.faq1{padding:0 10vw 90px}
+.faq1Accordion section h3{padding:20px}
+.headerNavOverflow{padding:30px}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+h1{font-size:45px}
+h2{font-size:33px}
+h3{font-size:25px}
+h4{font-size:20px}
+h5,p{font-size:18px}
+span,a{font-size:16px}
+input{font-size:18px}
+input[name='headerSearchField']{width:40vw}
+.newsletter1 button{margin:20px 0 0 20px}
+.heroSection2{-ms-grid-columns:1fr;grid-template-columns:1fr;padding:10vw}
+.faq1{padding:0 10vw 90px}
+.faq1Accordion section h3{padding:20px}
+.countdown{padding:20px 10vw 0}
+.countdownWrapper{max-width:600px}
+.countdownUnit{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+.countdownArea{padding:20px}
+.countdownArea:first-child{border:3px solid var(--f1)}
+.countdownArea span{font-size:20px;line-height:1}
+.countdownArea h2{font-size:40px;line-height:1}
+.dataHeader{grid-auto-flow:row}
+.dataHeaderColuna4-1fr{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.dataHeaderPremio{-ms-grid-columns:1fr;grid-template-columns:1fr;display:-ms-grid;display:grid}
+.dataHeaderUnit::before{display:none}
+.premiadosWrapper{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap}
+.dataHeaderUnit h3{text-align:center}
+.dataHeaderUnit{-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.dataHeaderNextLevel{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.dataHeaderEncerramento{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.premiadosWrapper::before{display:none}
+.dataHeaderUnit::after,.premiadosWrapper::after{display:block;background-color:rgba(0,0,0,.1);position:absolute;content:"";width:60vw;height:1px;top:-6px;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}
+.speakersePremiados{grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}
+.casaHope{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.casaHopeLogo{-ms-grid-row:2;grid-row:2}
+.casaHope h2,.casaHope h3:nth-child(3){text-align:center}
+.casaHope a{-ms-grid-row:5;grid-row:5}
+.headerNav button:last-child{margin-right:60px}
+.headerNavOverflow{padding:30px}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+h1{font-size:38px}
+h2{font-size:28px}
+h3{font-size:22px}
+h4{font-size:13px}
+h5,p{font-size:16px}
+span,a{font-size:16px}
+input{font-size:16px}
+.testimonials1{padding:90px 30px}
+.youtube1{-ms-grid-columns:1fr 1fr;grid-template-columns:1fr 1fr}
+.youtube1UnitWrapper:nth-of-type(1){grid-column:1 / -1;grid-row:auto}
+input[name='headerSearchField']{width:40vw}
+.newsletter1 button{margin:20px 0 0}
+.newsletter1Input,.newsletter1Input:nth-of-type(2){margin:0 0 20px;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;-ms-flex-preferred-size:700px;flex-basis:700px}
+.heroSection2{-ms-grid-columns:1fr;grid-template-columns:1fr;padding:10vw}
+.heroSection3{-ms-grid-columns:1.4fr 30px 1fr;grid-template-columns:1.4fr 1fr;padding:90px 30px;grid-gap:30px}
+.heroSection4{-ms-grid-columns:1.3fr 30px 1fr;grid-template-columns:1.3fr 1fr;padding:90px 30px;grid-gap:30px}
+.heroSection4TextWrapper h3{width:100%;margin-bottom:60px}
+.faq1{padding:0 30px 30px}
+.faq1Accordion section h3{padding:15px}
+.countdown{padding:20px 16vw 0}
+.countdownUnit{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+.countdownArea{padding:20px}
+.countdownArea:first-child{border:3px solid var(--f1)}
+.countdownArea span{font-size:20px;line-height:1}
+.countdownArea h2{font-size:40px;line-height:1}
+.dataHeader{grid-auto-flow:row}
+.dataHeaderColuna4-1fr{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.dataHeaderPremio{display:-ms-grid;display:grid;-ms-grid-columns:1fr;grid-template-columns:1fr}
+.dataHeaderUnit::before{display:none}
+.dataHeaderUnit h3{text-align:center}
+.dataHeaderUnit{-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.premiadosImg{width:170px;height:170px}
+.premiadosWrapper{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap}
+.premiadosGrid{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap}
+.premiadosGrid span{border-top:none}
+.premiadosWrapper h4{font-size:18px}
+.dataHeader h3{text-align:center}
+.premiadosWrapper{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-flow:column wrap;flex-flow:column wrap;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}
+.premiadoWrapper{padding:10px 0}
+.dataHeaderNextLevel{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.dataHeaderEncerramento{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.premiadosWrapper::before{display:none}
+.dataHeaderUnit::after,.premiadosWrapper::after{display:block;background-color:rgba(0,0,0,.1);position:absolute;content:"";width:60vw;height:1px;top:-6px;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}
+.premiadosImgWrapper h4{font-size:18px}
+.dinamicaWrapper{padding:20px}
+amp-selector[role=tablist].tabs-with-flex [role=tab]{-webkit-box-flex:2;-ms-flex-positive:2;flex-grow:2;-ms-flex-negative:2;flex-shrink:2;-ms-flex-preferred-size:360px;flex-basis:360px}
+.speakersePremiados{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}
+.casaHope{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.casaHopeLogo{-ms-grid-row:2;grid-row:2}
+.casaHope h2,.casaHope h3:nth-child(3){text-align:center}
+.casaHope a{-ms-grid-row:5;grid-row:5}
+.headerNav button:last-child{margin-right:60px}
+.headerNavOverflow{padding:30px}
+}
+@media (min-width: 576px) and (max-width: 767px) {
+h1{font-size:30px}
+h2{font-size:22px}
+h3{font-size:22px}
+h4{font-size:13px}
+h5,p{font-size:16px}
+span,a{font-size:16px}
+input{font-size:16px}
+.galeria1{padding:90px 0}
+.features1{-ms-grid-columns:1fr;grid-template-columns:1fr;-ms-grid-rows:(auto)[5];grid-template-rows:repeat(5,auto)}
+.features1 > :nth-child(1){-ms-grid-row:1;-ms-grid-column:1}
+.features1 > :nth-child(2){-ms-grid-row:2;-ms-grid-column:1}
+.features1 > :nth-child(3){-ms-grid-row:3;-ms-grid-column:1}
+.features1 > :nth-child(4){-ms-grid-row:4;-ms-grid-column:1}
+.features1 > :nth-child(5){-ms-grid-row:5;-ms-grid-column:1}
+.features1BigBlockImgWrapper{grid-column:1 / -1;-ms-grid-row:1;-ms-grid-row-span:1;grid-row:1 / 2;height:80vh;min-height:400px}
+.features1BigBlockTextWrapper{grid-column:1 / -1;-ms-grid-row:2;-ms-grid-row-span:1;grid-row:2 / 3}
+.features1BlockTextsWrapperBorder{border:none}
+.features1BlockTextsWrapper{padding-bottom:70px}
+.testimonials1{padding:30px}
+.testimonialsUnitWrapper{padding:0;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap}
+.testimonialsPhotoWrapper{padding:0}
+.testimonialsPhotoWrapper amp-img{max-width:100px;-ms-flex-item-align:center;-ms-grid-row-align:center;align-self:center}
+.testimonialsTextWrapper{padding:15px}
+.footer1{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap}
+.footerArea{margin:20px 0;-webkit-box-flex:2;-ms-flex-positive:2;flex-grow:2;-ms-flex-preferred-size:150px;flex-basis:150px;-ms-flex-negative:2;flex-shrink:2}
+.youtube1{-ms-grid-columns:1fr 1fr;grid-template-columns:1fr 1fr}
+.youtube1UnitWrapper:nth-of-type(1){grid-column:1 / -1;grid-row:auto}
+input[name='headerSearchField']{width:40vw}
+.newsletter1 button{margin:20px 0 0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}
+.newsletter1Input,.newsletter1Input:nth-of-type(2){margin:0 0 20px;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;-ms-flex-preferred-size:700px;flex-basis:700px}
+.newsletter1 h2,.newsletter1 p{margin:0 0 20px}
+.heroSection2{-ms-grid-columns:1fr;grid-template-columns:1fr;padding:100px 10vw 10vw}
+.heroSection3{-ms-grid-columns:1fr;grid-template-columns:1fr;padding:90px 30px;grid-gap:30px}
+.heroSection3Img{height:60vh}
+.heroSection4{-ms-grid-columns:1fr;grid-template-columns:1fr;padding:90px 30px;grid-gap:30px}
+.heroSection4TextWrapper h3{width:100%;margin-bottom:60px}
+.heroSection4Img{height:60vh}
+.speakerWrapper{-ms-grid-columns:60px 8px 1fr;grid-template-columns:60px 1fr;grid-gap:8px;padding:30px 0}
+.faq1{padding:0 30px 30px}
+.faq1Accordion section h3{padding:15px}
+.countdown{padding:20px 16vw 0}
+.countdownUnit{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+.countdownArea{padding:20px}
+.countdownArea:first-child{border:3px solid var(--f1)}
+.countdownArea span{font-size:16px}
+.countdownArea h2{font-size:30px;line-height:.5}
+.speakersePremiados{grid-template-columns:repeat(auto-fill,minmax(180px,1fr));padding:90px 20px;grid-column-gap:30px;grid-row-gap:50px}
+.premiadosImg{width:170px;height:170px}
+.premiadosWrapper{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap}
+.premiadosWrapper h4{font-size:18px}
+.premiadosGrid{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap}
+.premiadosGrid span{border-top:none}
+.dataHeader{grid-auto-flow:row}
+.dataHeaderColuna4-1fr{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.dataHeaderPremio{-ms-grid-columns:1fr;grid-template-columns:1fr;display:-ms-grid;display:grid}
+.dataHeaderUnit::before{display:none}
+.dataHeaderUnit h3{text-align:center}
+.dataHeaderUnit{-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.premiadosWrapper{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-flow:column wrap;flex-flow:column wrap;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}
+.premiadoWrapper{padding:10px 0}
+.dataHeaderNextLevel{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.dataHeaderEncerramento{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.premiadosWrapper::before{display:none}
+.dataHeaderUnit::after,.premiadosWrapper::after{display:block;background-color:rgba(0,0,0,.1);position:absolute;content:"";width:60vw;height:1px;top:-6px;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}
+.premiadosImgWrapper h4{font-size:18px}
+.dinamicaWrapper{padding:20px}
+amp-selector[role=tablist].tabs-with-flex [role=tab]{-webkit-box-flex:2;-ms-flex-positive:2;flex-grow:2;-ms-flex-negative:2;flex-shrink:2;-ms-flex-preferred-size:260px;flex-basis:260px}
+.casaHope{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.casaHopeLogo{-ms-grid-row:2;grid-row:2}
+.casaHope h2,.casaHope h3:nth-child(3){text-align:center}
+.casaHope a{-ms-grid-row:5;grid-row:5}
+.headerNav button:last-child{margin-right:60px}
+.headerNavOverflow{padding:30px}
+}
+@media (min-width: 320px) and (max-width: 575px) {
+h1{font-size:30px}
+h2{font-size:22px}
+h3{font-size:20px}
+h4{font-size:13px}
+h5,p{font-size:18px}
+span,a{font-size:16px}
+input{font-size:16px}
+.heroSection1{padding:90px 30px}
+.heroSection1 h1{font-size:27px}
+.galeria1{padding:90px 0}
+.features1{-ms-grid-columns:1fr;grid-template-columns:1fr;-ms-grid-rows:(auto)[5];grid-template-rows:repeat(5,auto)}
+.features1 > :nth-child(1){-ms-grid-row:1;-ms-grid-column:1}
+.features1 > :nth-child(2){-ms-grid-row:2;-ms-grid-column:1}
+.features1 > :nth-child(3){-ms-grid-row:3;-ms-grid-column:1}
+.features1 > :nth-child(4){-ms-grid-row:4;-ms-grid-column:1}
+.features1 > :nth-child(5){-ms-grid-row:5;-ms-grid-column:1}
+.features1BigBlockImgWrapper{grid-column:1 / -1;-ms-grid-row:1;-ms-grid-row-span:1;grid-row:1 / 2;height:80vh;min-height:400px}
+.features1BigBlockTextWrapper{grid-column:1 / -1;-ms-grid-row:2;-ms-grid-row-span:1;grid-row:2 / 3}
+.features1BlockTextsWrapperBorder{border:none}
+.features1BlockTextsWrapper{padding-bottom:70px}
+.testimonials1{padding:90px 10px}
+.testimonialsUnitWrapper{padding:0;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap}
+.testimonialsPhotoWrapper{padding:0}
+.testimonialsPhotoWrapper amp-img{max-width:100px;-ms-flex-item-align:center;-ms-grid-row-align:center;align-self:center}
+.testimonialsTextWrapper{padding:15px}
+.footer1{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap}
+.footerArea{margin:20px 0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;-ms-flex-preferred-size:400px;flex-basis:400px;-ms-flex-negative:1;flex-shrink:1}
+.youtube1{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.youtube1UnitWrapper:nth-of-type(1){grid-column:auto;grid-row:auto}
+.newsletter1 button{margin:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;-ms-flex-preferred-size:400px;flex-basis:400px}
+.newsletter1Input,.newsletter1Input:nth-of-type(2){margin:0 0 20px;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}
+.newsletter1 h2,.newsletter1 p{margin:0 0 20px}
+.heroSection2{-ms-grid-columns:1fr;grid-template-columns:1fr;padding:100px 30px 90px}
+.heroSection2Form{padding:20px}
+.heroSection3{-ms-grid-columns:1fr;grid-template-columns:1fr;padding:90px 30px;grid-gap:30px}
+.heroSection3Img{height:50vh}
+.heroSection4{-ms-grid-columns:1fr;grid-template-columns:1fr;padding:90px 30px;grid-gap:30px}
+.heroSection4TextWrapper h3{width:100%;margin-bottom:60px}
+.heroSection4Img{height:50vh}
+.speakerWrapper{-ms-grid-columns:60px 8px 1fr;grid-template-columns:60px 1fr;grid-gap:8px;padding:30px 0}
+.faq1{padding:0 30px 30px}
+.faq1Accordion section h3{padding:15px;font-size:20px}
+.tabs1{padding:90px 0}
+.countdown{padding:20px 20px 0}
+.countdownUnit{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+.countdownArea{padding:10px}
+.countdownArea:first-child{border:3px solid var(--f1);padding:20px 10px}
+.countdownArea span{font-size:16px}
+.countdownArea h2{font-size:30px;line-height:.5}
+.logosUnitWrapper{width:100px;height:60px;margin:20px}
+.dataHeader{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-flow:column wrap;flex-flow:column wrap;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.dataHeaderColuna4-1fr{display:-webkit-box;display:-ms-flexbox;display:flex}
+.speakersePremiados{grid-template-columns:repeat(auto-fill,minmax(120px,1fr));padding:90px 20px;grid-column-gap:10px;grid-row-gap:40px}
+.premiadosImg{width:110px;height:110px}
+.premiadosWrapper{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap}
+.premiadosWrapper h4{font-size:16px;font-family:'Roboto',sans-serif}
+.premiadosGrid{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-flow:column;flex-flow:column}
+.premiadosGrid span{border-top:none;-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-item-align:center;-ms-grid-row-align:center;align-self:center}
+.dataHeader{grid-auto-flow:row}
+.dataHeaderPremio{-ms-grid-columns:1fr;grid-template-columns:1fr;display:-ms-grid;display:grid}
+.dataHeaderNextLevel{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.dataHeaderEncerramento{-ms-grid-columns:1fr;grid-template-columns:1fr}
+.dataHeaderUnit::before{display:none}
+.dataHeaderUnit h3{text-align:center}
+.dataHeaderUnit{-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.premiadosWrapper{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-flow:column wrap;flex-flow:column wrap;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}
+.premiadoWrapper{padding:10px 0}
+.premiadosWrapper::before{display:none}
+.dataHeaderUnit::after,.premiadosWrapper::after{display:block;background-color:rgba(0,0,0,.1);position:absolute;content:"";width:60vw;height:1px;top:-6px;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}
+.dinamicaWrapper h3,.casaHope h3,h3.textoSobreHeader,.premiadosImgWrapper h4{font-size:18px;line-height:1.6}
+.dinamicaWrapper{padding:20px}
+.countdownAreaMobile h2{font-size:20px;-ms-grid-column-align:center;justify-self:center;-ms-flex-item-align:center;-ms-grid-row-align:center;align-self:center}
+amp-selector[role=tablist].tabs-with-flex [role=tab]{-webkit-box-flex:2;-ms-flex-positive:2;flex-grow:2;-ms-flex-negative:2;flex-shrink:2;-ms-flex-preferred-size:160px;flex-basis:160px}
+.casaHopeWrapper{padding:40px 8vw 70px;background:var(--f6)}
+.casaHope{-ms-grid-columns:1fr;grid-template-columns:1fr;padding:20px}
+.casaHopeLogo{-ms-grid-row:2;grid-row:2}
+.casaHope h2,.casaHope h3:nth-child(3){text-align:center}
+.casaHope a{-ms-grid-row:5;grid-row:5}
+.headerNav button:last-child{margin-right:60px}
+.headerNavOverflow{padding:30px}
+.descrPartic{-ms-grid-columns:1fr;grid-template-columns:1fr;margin-top:50px}
+}
